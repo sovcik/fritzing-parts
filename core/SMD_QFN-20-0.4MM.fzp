@@ -9,9 +9,17 @@
 <tag>SMD</tag>
 </tags>
 <properties>
+<<<<<<< HEAD
 <property name='package'>QFN-20-0.4MM</property>
 <property name='family'>Generic IC</property>
 <property name='chip label'>QFN-20-0.4MM</property>
+=======
+<property name='package'>QFN</property>
+<property name='connectors'>20</property>
+<property name='family'>Generic IC</property>
+<property name='chip label'>QFN-20-0.4MM</property>
+<property name='variant'>QFN-20 (0.4mm)</property>
+>>>>>>> master
 <property name='editable pin labels'>true</property>
 </properties>
 <views>

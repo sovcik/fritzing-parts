@@ -9,9 +9,17 @@
 <tag>SMD</tag>
 </tags>
 <properties>
+<<<<<<< HEAD
 <property name='package'>SO20W</property>
 <property name='family'>Generic IC</property>
 <property name='chip label'>SO20W</property>
+=======
+<property name='package'>SO(w)</property>
+<property name='connectors'>20</property>
+<property name='family'>Generic IC</property>
+<property name='chip label'>SO20W</property>
+<property name='variant'>2018W</property>
+>>>>>>> master
 <property name='editable pin labels'>true</property>
 </properties>
 <views>

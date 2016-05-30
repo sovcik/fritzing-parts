@@ -434,6 +434,7 @@ p, li { white-space: pre-wrap; }
   </connector>
  </connectors>
  <buses>
+<<<<<<< HEAD
   <bus id="gnd">
    <nodeMember connectorId="connector89"/>
    <nodeMember connectorId="connector90"/>
@@ -447,5 +448,7 @@ p, li { white-space: pre-wrap; }
    <nodeMember connectorId="connector79"/>
    <nodeMember connectorId="connector107"/>
   </bus>
+=======
+>>>>>>> master
  </buses>
 </module>

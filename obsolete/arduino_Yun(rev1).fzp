@@ -616,12 +616,18 @@ p, li { white-space: pre-wrap; }
  <buses>
   <bus id="+5v">
    <nodeMember connectorId="connector40"/>
+<<<<<<< HEAD
    <nodeMember connectorId="connector46"/>
+=======
+>>>>>>> master
    <nodeMember connectorId="connector87"/>
   </bus>
   <bus id="gnd">
    <nodeMember connectorId="connector44"/>
+<<<<<<< HEAD
    <nodeMember connectorId="connector50"/>
+=======
+>>>>>>> master
    <nodeMember connectorId="connector57"/>
    <nodeMember connectorId="connector88"/>
    <nodeMember connectorId="connector89"/>

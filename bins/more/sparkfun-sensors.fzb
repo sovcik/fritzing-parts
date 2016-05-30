@@ -2,6 +2,52 @@
 <module fritzingVersion='0.7.2b' icon='sparkfun-sensors.png'>
 <title>SparkFun-Sensors</title>
 <instances>
+<<<<<<< HEAD
+=======
+
+
+<instance moduleIdRef='SHT1x-Breakout' modelIndex='0'>
+<views>
+<iconView layer='icon'>
+<geometry z='-1' x='-1' y='-1'></geometry>
+</iconView>
+</views>
+</instance>
+
+<instance moduleIdRef='SparkFun Load Sensor Combinator' modelIndex='0'>
+<views>
+<iconView layer='icon'>
+<geometry z='-1' x='-1' y='-1'></geometry>
+</iconView>
+</views>
+</instance>
+
+<instance moduleIdRef='sx1509-breakout' modelIndex='0'>
+<views>
+<iconView layer='icon'>
+<geometry z='-1' x='-1' y='-1'></geometry>
+</iconView>
+</views>
+</instance>
+
+<instance moduleIdRef='SparkFun_BME280_Breakout' modelIndex='0'>
+<views>
+<iconView layer='icon'>
+<geometry z='-1' x='-1' y='-1'></geometry>
+</iconView>
+</views>
+</instance>
+
+
+<instance moduleIdRef='SparkFun_Soil_Moisture_Sensor' modelIndex='0'>
+<views>
+<iconView layer='icon'>
+<geometry z='-1' x='-1' y='-1'></geometry>
+</iconView>
+</views>
+</instance>
+
+>>>>>>> master
 <instance moduleIdRef='SparkFun-Sensors-ADXRSXXX-SMD' modelIndex='0'>
 <views>
 <iconView layer='icon'>

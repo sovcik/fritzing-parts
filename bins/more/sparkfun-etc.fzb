@@ -162,6 +162,18 @@
         </views>
       </instance>
 
+<<<<<<< HEAD
+=======
+
+<instance moduleIdRef='femtobuck' modelIndex='0'>
+<views>
+<iconView layer='icon'>
+<geometry z='-1' x='-1' y='-1'></geometry>
+</iconView>
+</views>
+</instance>
+
+>>>>>>> master
 <instance moduleIdRef='SparkFun-LED-LED-10MM' modelIndex='0'>
 <views>
 <iconView layer='icon'>

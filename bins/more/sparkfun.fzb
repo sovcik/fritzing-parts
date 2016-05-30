@@ -3,14 +3,58 @@
  <title>SparkFun</title>
  <instances>
  
+<<<<<<< HEAD
  
    <instance moduleIdRef="__spacer__" modelIndex="3" path="Shields">
+=======
+    <instance moduleIdRef="__spacer__" modelIndex="3" path="Shields">
+>>>>>>> master
         <views>
           <iconView layer="icon">
             <geometry z="-1" x="-1" y="-1"></geometry>
           </iconView>
         </views>
    </instance>
+<<<<<<< HEAD
+=======
+
+<instance moduleIdRef="ludusProtoShieldWireless">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>  
+     <instance moduleIdRef="ludusProtoShield">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>
+   <instance moduleIdRef="MyoWare_Cable_Shield">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>  
+     <instance moduleIdRef="MyoWare_Power_Shield">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>
+     <instance moduleIdRef="MyoWare_Proto_Shield">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>
+
+>>>>>>> master
    <instance moduleIdRef="Arduino Voice Shield-v16">
    <views>
     <iconView layer="icon">
@@ -25,7 +69,11 @@
     </iconView>
    </views>
   </instance>
+<<<<<<< HEAD
    <instance moduleIdRef="canbus_shield-v12">
+=======
+   <instance moduleIdRef="SparkFun_CAN-Bus_Shield">
+>>>>>>> master
    <views>
     <iconView layer="icon">
      <geometry x="-1" y="-1" z="-1"/>
@@ -81,7 +129,11 @@
     </iconView>
    </views>
   </instance>
+<<<<<<< HEAD
   <instance moduleIdRef="MIDI_Shield-v13">
+=======
+  <instance moduleIdRef="SparkFun_MIDI_Shield">
+>>>>>>> master
    <views>
     <iconView layer="icon">
      <geometry x="-1" y="-1" z="-1"/>
@@ -372,6 +424,7 @@
    </views>
   </instance>  
   
+<<<<<<< HEAD
 <instance moduleIdRef="__spacer__" modelIndex="3" path="Other">
         <views>
           <iconView layer="icon">
@@ -380,6 +433,33 @@
         </views>
    </instance>
         <instance moduleIdRef="TB6612FNG Breakout v11">
+=======
+  <instance moduleIdRef="__spacer__" modelIndex="3" path="Other">
+      <views>
+          <iconView layer="icon">
+          <geometry z="-1" x="-1" y="-1"></geometry>
+        </iconView>
+      </views>
+  </instance>
+ <instance moduleIdRef="SparkFun_BadgerStick">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>
+
+ <instance moduleIdRef="SparkFun_BadgerArray">
+   <views>
+    <iconView layer="icon">
+     <geometry x="-1" y="-1" z="-1"/>
+    </iconView>
+   </views>
+  </instance>
+
+
+  <instance moduleIdRef="TB6612FNG Breakout v11">
+>>>>>>> master
    <views>
     <iconView layer="icon">
      <geometry x="-1" y="-1" z="-1"/>
@@ -428,7 +508,11 @@
     </iconView>
    </views>
   </instance>
+<<<<<<< HEAD
   <instance moduleIdRef="Arduino-Pro-Mini-v13-a4+5">
+=======
+  <instance moduleIdRef="Arduino-Pro-Mini3.3V">
+>>>>>>> master
    <views>
     <iconView layer="icon">
      <geometry x="-1" y="-1" z="-1"/>
