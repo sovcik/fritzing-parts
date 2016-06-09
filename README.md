@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fritzing Parts
 
 This repository contains all part definitions that are shipped with the [Fritzing App](https://github.com/fritzing/fritzing-app).
@@ -22,4 +21,4 @@ See the [contribution guidelines](https://github.com/fritzing/fritzing-parts/blo
 ## Creating parts
 
 Learn [how to create custom parts](http://fritzing.org/learning/tutorials/creating-custom-parts/)
->>>>>>> master
+
